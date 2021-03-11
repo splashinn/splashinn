@@ -1,3 +1,1 @@
 - 🔭 I’m currently working on applications for the aerial mapping and surveying industry
-- 👯 I’m looking to collaborate on ruby open source projects or anything GIS related
-- 💬 Ask me about ruby! or bikes or video cameras....
